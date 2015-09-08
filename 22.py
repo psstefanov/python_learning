@@ -3,8 +3,7 @@ keys  = string.lowercase
 values  = range(1,27)
 dictionary = dict(zip(keys, values))
 #code = "Pnrfne pvcure? V zhpu cersre Pnrfne fnynq!"
-#code = "pnrfne pvcure? v zhpu cersre pnrfne fnynq!"
-code = "obicham te milo moe mishle"
+code = "pnrfne pvcure? v zhpu cersre pnrfne fnynq!"
 translate=[]
 for i in code:
     if dictionary.get(i):
