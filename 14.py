@@ -4,5 +4,4 @@ def wordlenght(inputList):
         lenght.append(len(i))
     print (lenght)
 
-List = ["test","new","script", "jhsdabvkljhgdfkjhsakl", "r 2"]
-wordlenght(List)
+List = ["test","new","script", "jhsdabvkljhgdfkjhsakl", "r 2", "xerex"]
